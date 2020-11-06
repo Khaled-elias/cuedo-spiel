@@ -1,0 +1,23 @@
+body{
+   color:black;
+   background: url(https://cdn02.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Cluedo.jpg)center / cover no-repeat;
+}
+
+#foto{
+    height: 414px;
+    width:414px;
+}
+h2,div{
+    text-align: center;
+
+}
+div{
+    margin-top: 9em;
+    margin-bottom: 3em;
+}
+button{
+    width: 4em;
+    height: 2em;
+    font-size: 2em;
+    background:rgb(215, 243, 214);
+}
